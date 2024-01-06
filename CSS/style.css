@@ -181,7 +181,7 @@ nav{
     padding-bottom: 80px;
   }
   .logos{
-    margin-left: 90PX;
+    margin-left: 40PX;
   }
   .middle-article h2,
   .middle-article h4{
@@ -252,12 +252,10 @@ nav{
   .under-middle{
     display: block;
   }
-  .back-rectangle-rotate1{
-    left: 180px;
-  }
+  .back-rectangle-rotate1,
   .back-rectangle-rotate2,
   .back-rectangle-rotate3{
-    left: 180px;
+    left: 140px;
   }
   .d-rotate{
     margin-top: 40px;
